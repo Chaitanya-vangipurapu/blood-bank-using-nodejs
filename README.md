@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://image.flaticon.com/icons/png/128/2069/2069743.png">
-  <h1>Blood Bank</h1>
-</div>
-
+<h1>Blood Bank application By Chaitanya Vangipurapu</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Build Status](https://travis-ci.com/rishav394/bloodbank.svg?token=nxairHVBeKGrCQKnMdVR&branch=master)](https://travis-ci.com/rishav394/bloodbank)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/rishav394/bloodbank)
@@ -94,9 +90,7 @@ Make changes in `.env`
 
 ## ✍️ Authors
 
-[@rishav394](https://github.com/rishav394) - Initial work
-
-See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project.
+[@Chaitanya-Vangipurapu](https://github.com/Chaitanya-vangipurapu) - Initial work
 
 ## 🎉 Acknowledgements
 
