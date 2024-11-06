@@ -1,5 +1,15 @@
-<h1>Blood Bank application By Chaitanya Vangipurapu</h1>
-This is a simple Blood Bank Web Application I made for my assigment. Uses Node JS and MongoDB primarily.
+# Blood Bank application By Chaitanya Vangipurapu
+
+This is a simple Blood Bank Web Application I made for my assignment. Uses Node JS and MongoDB primarily.
+
+## Screenshots
+
+![Home](screenshots/Home.png)
+![Register 1](screenshots/Register.png)
+![Register 2](screenshots/Register.png)
+![Donate](screenshots/Donate.png)
+![Bank 1](screenshots/Bank.png)
+![Bank 2](screenshots/Bank.png)
 
 ## 📝 Table of Contents
 
@@ -15,7 +25,7 @@ This is a simple Blood Bank Web Application I made for my assigment. Uses Node J
 
 Blood Bank is a very simple yet functional and secure Blood Bank Web Application.
 
-If you are familiar enough in a beginner level with `Node JS` and `mongoose` this is a good project to clone and try to replicate.
+If you are familiar enough at a beginner level with `Node JS` and `mongoose`, this is a good project to clone and try to replicate.
 
 ## 🏁 Getting Started
 
@@ -34,56 +44,3 @@ Clone the repo and install the dependencies.
 ```bash
 git clone https://github.com/rishav394/bloodbank.git
 cd bloodbank-master
-```
-
-```bash
-npm install
-```
-
-### Running Locally
-
-Create a new file in root directory `.env`
-Copy contents from `.env.expmple`
-Make changes if required.
-
-```bash
-npm start
-```
-
-### Populating database with sample data
-
-Edit JSON files under `util` for dummy data
-
-```bash
-npm run populate
-```
-
-## 🔧 Running the tests
-
-Still in todos
-
-## 🚀 Deployment
-
-Make changes in `.env`
-
-1. Set `DBURI` to your remote mongoDB URI
-2. Scale the PORT accounrding to your host/server
-3. Change NODE_ENV to production for `Morgan`
-4. Remove everything after `DEBUG=`
-
-## ⛏️ Built Using
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Mongoose](https://mongoosejs.com/) - MongoDB Wrapper
-- [Express](https://expressjs.com/) - Server Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-- [VS Code](https://code.visualstudio.com/) - Awesome IDE
-
-## ✍️ Authors
-
-[@Chaitanya-Vangipurapu](https://github.com/Chaitanya-vangipurapu) - Initial work
-
-## 🎉 Acknowledgements
-
-- Hat tip to anyone whose code was used
-- StackOverflow <3
