@@ -5,11 +5,11 @@ This is a simple Blood Bank Web Application I made for my assignment. Uses Node 
 ## Screenshots
 
 ![Home](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/1.Home.png)
-![Register 1](/blood-bank-using-nodejs/screenshots/2.Register.png)
-![Register 2](screenshots/Register.png)
-![Donate](screenshots/Donate.png)
-![Bank 1](screenshots/Bank.png)
-![Bank 2](screenshots/Bank.png)
+![Register 1](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/2.Register.png)
+![Register 2](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/Register.png)
+![Donate](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/Donate.png)
+![Bank 1](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/Bank.png)
+![Bank 2](https://github.com/Chaitanya-vangipurapu/blood-bank-using-nodejs/blob/main/screenshots/Bank.png)
 
 ## 📝 Table of Contents
 
